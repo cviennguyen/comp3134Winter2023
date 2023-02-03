@@ -1,0 +1,18 @@
+https://bb-gbc.blackboard.com/ultra/courses/_260010_1/cl/outline
+  Domain Server IP: 3.98.1.71
+  Domain Server IP: 35.183.146.245
+
+https://github.com/cviennguyen/comp3134Winter2023
+  Domain Server IP: 140.82.112.3
+
+https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel
+  Domain Server IP: 140.82.112.3
+
+https://account.mongodb.com/account/login?n=%2Fv2%2F633cc7d6ea14a741304e748b%23%2Fmetrics%2FreplicaSet%2F633cc820d5519542828a9eff%2Fexplorer%2Fcapstone_project%2Freviews%2Ffind
+  Domain Server IP: 34.227.4.145
+
+https://zingnews.vn/au-da-sau-pha-vao-bong-triet-ha-vinicius-jr-post1398506.html
+  Domain Server IP: 42.119.138.3
+  Domain Server IP: 42.119.138.4
+  Domain Server IP: 222.255.216.35
+

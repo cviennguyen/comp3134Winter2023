@@ -1,0 +1,67 @@
+georgebrowncollege.ca
+  Domain:georgebrowncollege.ca
+  Registrar:Webnames.ca Inc.
+  Registered On:2000-11-09
+  Expires On:2023-12-01
+  Updated On:2023-01-20
+  Status:clientTransferProhibited
+  Name Servers:ns1.d-zone.ca
+  ns1.georgebrown.ca
+  ns2.d-zone.ca
+  ns2.georgebrown.ca
+
+apple.com
+  Domain:apple.com
+  Registrar:CSC Corporate Domains, Inc.
+  Registered On:1987-02-19
+  Expires On:2023-02-20
+  Updated On:2022-02-16
+  Status:clientTransferProhibited
+  serverDeleteProhibited
+  serverTransferProhibited
+  serverUpdateProhibited
+  Name Servers:a.ns.apple.com
+  b.ns.apple.com
+  c.ns.apple.com
+  d.ns.apple.com
+
+cbc.ca
+  Domain:cbc.ca
+  Registrar:Authentic Web Inc.
+  Registered On:2000-10-16
+  Expires On:2023-11-24
+  Updated On:2022-11-24
+  Status:clientTransferProhibited
+  clientUpdateProhibited
+  serverDeleteProhibited
+  serverTransferProhibited
+  serverUpdateProhibited
+  Name Servers:a1-29.akam.net
+  a14-66.akam.net
+  a26-67.akam.net
+  a4-64.akam.net
+  a5-65.akam.net
+  a9-66.akam.net
+
+cic.ca
+  Domain:cic.ca
+  Registrar:Internic.ca Inc.
+  Registered On:2000-10-31
+  Expires On:2023-12-05
+  Updated On:2022-10-17
+  Status:clientTransferProhibited
+  clientUpdateProhibited
+  Name Servers:mag1.magma.ca
+  mag2.magmacom.com
+
+toronto.ca
+  Domain:toronto.ca
+  Registrar:Webnames.ca Inc.
+  Registered On:2002-04-19
+  Expires On:2025-04-18
+  Updated On:2023-01-21
+  Status:clientTransferProhibited
+  Name Servers:dns1.easydns.com
+  dns2.easydns.net
+  dns3.easydns.org
+  dns4.easydns.info

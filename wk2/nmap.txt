@@ -1,0 +1,53 @@
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# nmap 140.82.112.3
+Starting Nmap 7.92 ( https://nmap.org ) at 2023-02-03 20:51 UTC
+Nmap scan report for lb-140-82-112-3-iad.github.com (140.82.112.3)
+Host is up (0.017s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.89 seconds
+
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 3000 140.82.112.3
+Starting Nmap 7.92 ( https://nmap.org ) at 2023-02-03 20:52 UTC
+Nmap scan report for lb-140-82-112-3-iad.github.com (140.82.112.3)
+Host is up (0.018s latency).
+
+PORT     STATE    SERVICE
+3000/tcp filtered ppp
+
+Nmap done: 1 IP address (1 host up) scanned in 0.35 seconds
+
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 3000-3010 140.82.112.3
+Starting Nmap 7.92 ( https://nmap.org ) at 2023-02-03 20:54 UTC
+Nmap scan report for lb-140-82-112-3-iad.github.com (140.82.112.3)
+Host is up (0.018s latency).
+
+PORT     STATE    SERVICE
+3000/tcp filtered ppp
+3001/tcp filtered nessus
+3002/tcp filtered exlm-agent
+3003/tcp filtered cgms
+3004/tcp filtered csoftragent
+3005/tcp filtered deslogin
+3006/tcp filtered deslogind
+3007/tcp filtered lotusmtap
+3008/tcp filtered midnight-tech
+3009/tcp filtered pxc-ntfy
+3010/tcp filtered gw
+
+Nmap done: 1 IP address (1 host up) scanned in 1.55 seconds
+
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -F 140.82.112.3
+Starting Nmap 7.92 ( https://nmap.org ) at 2023-02-03 20:54 UTC
+Nmap scan report for lb-140-82-112-3-iad.github.com (140.82.112.3)
+Host is up (0.017s latency).
+Not shown: 97 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 1.98 seconds

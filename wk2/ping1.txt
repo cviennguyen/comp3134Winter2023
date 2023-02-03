@@ -1,0 +1,11 @@
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# ping 140.82.112.3
+PING 140.82.112.3 (140.82.112.3) 56(84) bytes of data.
+64 bytes from 140.82.112.3: icmp_seq=1 ttl=52 time=17.6 ms
+64 bytes from 140.82.112.3: icmp_seq=2 ttl=52 time=16.6 ms
+64 bytes from 140.82.112.3: icmp_seq=3 ttl=52 time=16.5 ms
+64 bytes from 140.82.112.3: icmp_seq=4 ttl=52 time=16.7 ms
+64 bytes from 140.82.112.3: icmp_seq=5 ttl=52 time=16.6 ms
+64 bytes from 140.82.112.3: icmp_seq=6 ttl=52 time=16.6 ms
+64 bytes from 140.82.112.3: icmp_seq=7 ttl=52 time=16.7 ms
+64 bytes from 140.82.112.3: icmp_seq=8 ttl=52 time=16.8 ms
+64 bytes from 140.82.112.3: icmp_seq=9 ttl=52 time=16.5 ms
