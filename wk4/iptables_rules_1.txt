@@ -1,0 +1,49 @@
+Welcome to Ubuntu 22.10 (GNU/Linux 5.19.0-23-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  System information as of Fri Feb 17 18:26:27 UTC 2023
+
+  System load:           0.0
+  Usage of /:            14.8% of 24.06GB
+  Memory usage:          25%
+  Swap usage:            0%
+  Processes:             91
+  Users logged in:       0
+  IPv4 address for eth0: 137.184.168.203
+  IPv4 address for eth0: 10.20.0.5
+  IPv6 address for eth0: 2604:a880:cad:d0::e58:3001
+  IPv4 address for eth1: 10.118.0.2
+
+21 updates can be applied immediately.
+To see these additional updates run: apt list --upgradable
+
+
+*** System restart required ***
+Last login: Fri Feb  3 20:27:32 2023 from 198.96.84.226
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# man itables
+No manual entry for itables
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# app-get update
+Command 'app-get' not found, did you mean:
+  command 'apt-get' from deb apt (2.5.1)
+Try: apt install <deb name>
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# apt-get install iptables
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+iptables is already the newest version (1.8.7-1ubuntu6).
+iptables set to manually installed.
+0 upgraded, 0 newly installed, 0 to remove and 24 not upgraded.
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# man iptables
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# iptables -L -v
+Chain INPUT (policy ACCEPT 0 packets, 0 bytes)
+ pkts bytes target     prot opt in     out     source               destination         
+
+Chain FORWARD (policy ACCEPT 0 packets, 0 bytes)
+ pkts bytes target     prot opt in     out     source               destination         
+
+Chain OUTPUT (policy ACCEPT 0 packets, 0 bytes)
+ pkts bytes target     prot opt in     out     source               destination         
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# 

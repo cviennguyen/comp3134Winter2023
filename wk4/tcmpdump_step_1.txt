@@ -1,0 +1,15 @@
+19:23:01.845041 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.52.152.238.53285: Flags [P.], seq 269756:269984, ack 181, win 501, options [nop,nop,TS val 2521421735 ecr 4097027359], length 228
+19:23:01.845586 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.52.152.238.53285: Flags [P.], seq 269984:270856, ack 181, win 501, options [nop,nop,TS val 2521421735 ecr 4097027359], length 872
+19:23:01.861169 IP 198.52.152.238.53285 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 270856, win 2048, options [nop,nop,TS val 4097027462 ecr 2521421735], length 0
+19:23:01.942348 IP ip82.ip-15-235-152.net.41831 > ubuntu-s-1vcpu-1gb-tor1-01.34099: Flags [S], seq 18802, win 512, length 0
+19:23:01.942396 IP ubuntu-s-1vcpu-1gb-tor1-01.34099 > ip82.ip-15-235-152.net.41831: Flags [R.], seq 0, ack 18803, win 0, length 0
+19:23:01.948811 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.52.152.238.53285: Flags [P.], seq 270856:271076, ack 181, win 501, options [nop,nop,TS val 2521421838 ecr 4097027462], length 220
+19:23:01.948905 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.52.152.238.53285: Flags [P.], seq 271076:271304, ack 181, win 501, options [nop,nop,TS val 2521421839 ecr 4097027462], length 228
+19:23:01.949001 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.52.152.238.53285: Flags [P.], seq 271304:271700, ack 181, win 501, options [nop,nop,TS val 2521421839 ecr 4097027462], length 396
+19:23:01.949094 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.52.152.238.53285: Flags [P.], seq 271700:271736, ack 181, win 501, options [nop,nop,TS val 2521421839 ecr 4097027462], length 36
+19:23:01.949182 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.52.152.238.53285: Flags [P.], seq 271736:272072, ack 181, win 501, options [nop,nop,TS val 2521421839 ecr 4097027462], length 336
+19:23:01.964304 IP 198.52.152.238.53285 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 272072, win 2048, options [nop,nop,TS val 4097027566 ecr 2521421839], length 0
+^C
+1310 packets captured
+1321 packets received by filter
+5 packets dropped by kernel
