@@ -1,0 +1,18 @@
+19:30:48.221011 IP abts-north-dynamic-202.49.161.122.airtelbroadband.in.13773 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 53, win 268, options [nop,nop,TS val 486535846 ecr 203331111], length 0
+19:30:48.271102 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.52.152.238.53285: Flags [P.], seq 74316:74584, ack 73, win 501, options [nop,nop,TS val 2521888161 ecr 4097493398], length 268
+19:30:48.271247 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.52.152.238.53285: Flags [P.], seq 74584:74620, ack 73, win 501, options [nop,nop,TS val 2521888161 ecr 4097493398], length 36
+19:30:48.271310 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.52.152.238.53285: Flags [P.], seq 74620:74840, ack 73, win 501, options [nop,nop,TS val 2521888161 ecr 4097493398], length 220
+19:30:48.271404 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.52.152.238.53285: Flags [P.], seq 74840:75096, ack 73, win 501, options [nop,nop,TS val 2521888161 ecr 4097493398], length 256
+19:30:48.271483 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.52.152.238.53285: Flags [P.], seq 75096:75356, ack 73, win 501, options [nop,nop,TS val 2521888161 ecr 4097493398], length 260
+19:30:48.271566 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.52.152.238.53285: Flags [P.], seq 75356:75576, ack 73, win 501, options [nop,nop,TS val 2521888161 ecr 4097493398], length 220
+19:30:48.271641 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.52.152.238.53285: Flags [P.], seq 75576:75780, ack 73, win 501, options [nop,nop,TS val 2521888161 ecr 4097493398], length 204
+19:30:48.271713 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.52.152.238.53285: Flags [P.], seq 75780:76020, ack 73, win 501, options [nop,nop,TS val 2521888161 ecr 4097493398], length 240
+19:30:48.271807 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.52.152.238.53285: Flags [P.], seq 76020:76432, ack 73, win 501, options [nop,nop,TS val 2521888161 ecr 4097493398], length 412
+19:30:48.271824 IP 67.207.67.3.domain > ubuntu-s-1vcpu-1gb-tor1-01.35174: Flags [P.], seq 317:430, ack 230, win 128, options [nop,nop,TS val 2690105719 ecr 2314182659], length 113 39634 1/0/0 PTR abts-north-dynamic-202.49.161.122.airtelbroadband.in. (111)
+19:30:48.271849 IP ubuntu-s-1vcpu-1gb-tor1-01.35174 > 67.207.67.3.domain: Flags [.], ack 430, win 502, options [nop,nop,TS val 2314183149 ecr 2690105719], length 0
+19:30:48.271975 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.52.152.238.53285: Flags [P.], seq 76432:77092, ack 73, win 501, options [nop,nop,TS val 2521888162 ecr 4097493398], length 660
+19:30:48.288945 IP 198.52.152.238.53285 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 77092, win 6437, options [nop,nop,TS val 4097493890 ecr 2521888162], length 0
+^C
+349 packets captured
+363 packets received by filter
+0 packets dropped by kernel

@@ -1,0 +1,24 @@
+19:29:50.443243 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 147.26.75.34.bc.googleusercontent.com.36764: Flags [P.], seq 1704:1756, ack 1199, win 502, options [nop,nop,TS val 20026241 ecr 496677650], length 52
+19:29:50.475377 IP 147.26.75.34.bc.googleusercontent.com.36764 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 1199:1251, ack 1756, win 256, options [nop,nop,TS val 496678171 ecr 20026241], length 52
+19:29:50.475378 IP 147.26.75.34.bc.googleusercontent.com.36764 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [F.], seq 1251, ack 1756, win 256, options [nop,nop,TS val 496678171 ecr 20026241], length 0
+19:29:50.475431 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 147.26.75.34.bc.googleusercontent.com.36764: Flags [.], ack 1251, win 502, options [nop,nop,TS val 20026273 ecr 496678171], length 0
+19:29:50.478067 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 147.26.75.34.bc.googleusercontent.com.36764: Flags [F.], seq 1756, ack 1252, win 502, options [nop,nop,TS val 20026276 ecr 496678171], length 0
+19:29:50.510075 IP 147.26.75.34.bc.googleusercontent.com.36764 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1757, win 256, options [nop,nop,TS val 496678180 ecr 20026276], length 0
+19:29:52.336853 IP ip82.ip-15-235-152.net.41831 > ubuntu-s-1vcpu-1gb-tor1-01.34267: Flags [S], seq 31993, win 512, length 0
+19:29:52.336902 IP ubuntu-s-1vcpu-1gb-tor1-01.34267 > ip82.ip-15-235-152.net.41831: Flags [R.], seq 0, ack 31994, win 0, length 0
+19:29:52.587642 IP ip82.ip-15-235-152.net.40709 > ubuntu-s-1vcpu-1gb-tor1-01.62009: Flags [S], seq 29196, win 512, length 0
+19:29:52.587688 IP ubuntu-s-1vcpu-1gb-tor1-01.62009 > ip82.ip-15-235-152.net.40709: Flags [R.], seq 0, ack 29197, win 0, length 0
+19:29:54.801755 IP ip82.ip-15-235-152.net.41831 > ubuntu-s-1vcpu-1gb-tor1-01.34268: Flags [S], seq 504, win 512, length 0
+19:29:54.801801 IP ubuntu-s-1vcpu-1gb-tor1-01.34268 > ip82.ip-15-235-152.net.41831: Flags [R.], seq 0, ack 505, win 0, length 0
+19:29:55.245526 IP ip82.ip-15-235-152.net.40709 > ubuntu-s-1vcpu-1gb-tor1-01.62010: Flags [S], seq 19723, win 512, length 0
+19:29:55.245575 IP ubuntu-s-1vcpu-1gb-tor1-01.62010 > ip82.ip-15-235-152.net.40709: Flags [R.], seq 0, ack 19724, win 0, length 0
+19:29:57.578822 IP ip82.ip-15-235-152.net.41831 > ubuntu-s-1vcpu-1gb-tor1-01.34269: Flags [S], seq 28664, win 512, length 0
+19:29:57.578861 IP ubuntu-s-1vcpu-1gb-tor1-01.34269 > ip82.ip-15-235-152.net.41831: Flags [R.], seq 0, ack 28665, win 0, length 0
+19:29:57.984198 IP ip82.ip-15-235-152.net.40709 > ubuntu-s-1vcpu-1gb-tor1-01.62011: Flags [S], seq 4362, win 512, length 0
+19:29:57.984247 IP ubuntu-s-1vcpu-1gb-tor1-01.62011 > ip82.ip-15-235-152.net.40709: Flags [R.], seq 0, ack 4363, win 0, length 0
+19:29:59.105793 IP ns3171942.ip-151-106-39.eu.7579 > ubuntu-s-1vcpu-1gb-tor1-01.8090: UDP, length 644
+19:29:59.105838 IP ubuntu-s-1vcpu-1gb-tor1-01 > ns3171942.ip-151-106-39.eu: ICMP ubuntu-s-1vcpu-1gb-tor1-01 udp port 8090 unreachable, length 556
+19:30:00.094188 IP ip82.ip-15-235-152.net.41831 > ubuntu-s-1vcpu-1gb-tor1-01.34270: Flags [S], seq 18167, win 512, length 0
+19:30:00.094242 IP ubuntu-s-1vcpu-1gb-tor1-01.34270 > ip82.ip-15-235-152.net.41831: Flags [R.], seq 0, ack 18168, win 0, length 0
+19:30:00.496927 IP ip82.ip-15-235-152.net.40709 > ubuntu-s-1vcpu-1gb-tor1-01.62012: Flags [S], seq 15881, win 512, length 0
+19:30:00.496984 IP ubuntu-s-1vcpu-1gb-tor1-01.62012 > ip82.ip-15-235-152.net.40709: Flags [R.], seq 0, ack 15882, win 0, length 0
