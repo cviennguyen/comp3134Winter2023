@@ -1,0 +1,4 @@
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# traceroute 137.184.168.203
+traceroute to 137.184.168.203 (137.184.168.203), 30 hops max, 60 byte packets
+ 1  ubuntu-s-1vcpu-1gb-tor1-01 (137.184.168.203)  0.061 ms  0.013 ms  0.010 ms
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# 
