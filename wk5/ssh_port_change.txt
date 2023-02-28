@@ -1,0 +1,3 @@
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# service mysql start
+Failed to start mysql.service: Unit mysql.service not found.
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# 
