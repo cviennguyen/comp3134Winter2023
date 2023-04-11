@@ -1,0 +1,7 @@
+he difference between using strip_tags and htmlentities for input sanitization is that strip_tags removes any HTML tags from the input, while htmlentities converts any special characters to their corresponding HTML entities.
+
+For example, if a user enters the input Hello <b>World</b>!, strip_tags would return Hello World!, while htmlentities would return Hello &lt;b&gt;World&lt;/b&gt;!.
+
+Using strip_tags is suitable for cases where you only want to allow plain text input and remove any formatting or HTML tags from the input.
+
+On the other hand, using htmlentities is suitable for cases where you want to preserve the formatting and display the input as is, but also prevent any malicious scripts from being executed or displayed on the page.
